@@ -1,4 +1,3 @@
-%%writefile pallet.py
 import streamlit as st
 import seaborn as sea
 import matplotlib.pyplot as plt
